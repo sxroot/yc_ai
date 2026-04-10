@@ -1,0 +1,11 @@
+{
+  "name": "your-choice-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
